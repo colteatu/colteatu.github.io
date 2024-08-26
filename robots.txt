@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://colteatu.github.io/sitemap.html.gz
+Sitemap: https://colteatu.github.io/app/sitemap.html.gz
+Sitemap: https://colteatu.github.io/assets/sitemap.html.gz
+Sitemap: https://colteatu.github.io/css/sitemap.html.gz
+Sitemap: https://colteatu.github.io/includes/sitemap.html.gz
+Sitemap: https://colteatu.github.io/item/sitemap.html.gz
+Sitemap: https://colteatu.github.io/src/sitemap.html.gz
